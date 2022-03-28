@@ -69,12 +69,11 @@ public class Retangulo {
 	}
 
 	public void imprimir() {
-		System.out.println("A base do ret‚ngulo È de: " + this.base);
-		System.out.println("A altura do ret‚ngulo È de: " + this.altura);
-		System.out.println("A ·rea do ret‚ngulo È de:" +this.area);
-		System.out.println("O perÌmetro do ret‚ngulo È de: " +this.perimetro);
+		System.out.println("A base do ret√¢ngulo √© de: " + this.base);
+		System.out.println("A altura do ret√¢ngulo √© de: " + this.altura);
+		System.out.println("A √°rea do ret√¢ngulo √© de:" +this.area);
+		System.out.println("O per√≠metro do ret√¢ngulo √© de: " +this.perimetro);
 		
-
 	}
 
 }
